@@ -57,7 +57,7 @@ npm run build
 npm run deploy
 ```
 
-## ⚙️ Configurazione
+## Configurazione
 
 Per personalizzare il portfolio:
 
